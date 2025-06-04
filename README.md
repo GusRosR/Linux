@@ -1,6 +1,6 @@
 # Linux
 
-En esta sección, se encontrarán los proyectos que mostrarán mi conocimiento en Linux así como algunas notas que me han servido para estudio.
+In this section are located the different projects I've done related to or using Linux as well as foundational knowledge that has helped me to understand the operating system and it's environment.
 
 ## Projects
 
